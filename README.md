@@ -1,6 +1,6 @@
 # Git_Practice-exercise
 
-Hello, this Meyaw's repository!
+Hello, this is Meyaw's repository!
 
 My name is irish, my friends call me "Meyaw or Pusa" I'm a store manager from the pharmacy right now with a business partner from this store, since I'm a graduate from a computer science Programming I decided to motivate myself again to go back to take my course bcoz this is what I want since before.
 
