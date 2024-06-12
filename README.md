@@ -1,4 +1,4 @@
-# Git_Practice-exercise
+# Git_Practice-Exercise
 
 Hello, this is Meyaw's repository!
 
